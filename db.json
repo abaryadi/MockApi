@@ -1,0 +1,19 @@
+{
+    "error": false,
+    "data": [
+        {
+            "client_id": 1,
+            "schools_name": "SMA 1 Jakarta"
+        },
+        {
+            "client_id": 2,
+            "schools_name": "SMA 2 Jakarta"
+        },
+        {
+            "client_id": 3,
+            "schools_name": "SMA 3 Jakarta"
+        }
+    ],
+    "message": "Data Schools Fetched",
+    "status_code": 200
+}
